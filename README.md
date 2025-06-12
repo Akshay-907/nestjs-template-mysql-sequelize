@@ -138,6 +138,3 @@ npx sequelize-cli migration:generate --name create-users
 npx sequelize-cli db:migrate
 ```
 
----
-
-Let me know if you'd like to include DTOs, Swagger, or folder restructuring into `modules/` for feature-based organization.
