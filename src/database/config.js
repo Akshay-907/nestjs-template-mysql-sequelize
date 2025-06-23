@@ -1,12 +1,12 @@
 module.exports = {
   development: {
-    username: 'root',
-    password: 'p',
-    database: 'nestdb',
+    username: 'akshay',
+    password: 'E1719prbu',
+    database: 'application_settings',
     host: '127.0.0.1',
-    dialect: 'mysql'
+    dialect: 'mysql',
   },
-  production: {
-    // your prod config
-  }
+  // production: {
+  //   // your prod config
+  // }
 };
